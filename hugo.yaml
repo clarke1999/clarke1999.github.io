@@ -221,6 +221,11 @@ menu:
           params:
               icon: brand-github
 
+        - identifier: twitter
+          name: Twitter
+          url: https://twitter.com
+          params:
+              icon: brand-twitter
 
 related:
     includeNewer: true
